@@ -1,0 +1,33 @@
+.heading {
+    font-size:23px;
+    width: 100%;
+    margin:0px;
+    box-shadow: 5px 5px 5px rgb(184, 232, 234);
+    background-color: cadetblue;
+    font-family: 'Special Elite', cursive;
+}
+.note{
+    font-size: 19px ;
+    color: rgb(101, 71, 57);
+    font-family: 'Special Elite', cursive;
+}
+.footrighter{
+    position: fixed;
+    color:  rgb(99, 78, 91);
+    background-color:rgb(110, 160, 161);
+    box-shadow: 3px 3px 3px rgb(184, 232, 234);
+    bottom: 0;
+    width: 100%;
+    font-family: 'Special Elite', cursive;
+    line-height: 3;
+    text-align: left;
+}
+.body{
+    background-color: rgb(250, 247, 237);
+}
+canvas {
+    border: 3px dashed rgb(122, 111, 86);
+    box-shadow: 3px 3px 3px rgb(148, 218, 219);
+    border-radius: 3px;
+
+}
